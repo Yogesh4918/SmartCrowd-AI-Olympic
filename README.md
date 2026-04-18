@@ -2,7 +2,20 @@
 
 <div align="center">
   <h3>Next-generation AI-powered queue optimization, incident prediction, and crowd density management designed for Olympic-scale events.</h3>
+  <br />
+  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-00D4FF?style=for-the-badge&logo=google-cloud&logoColor=white)](https://smartcrowd-app-500190929866.us-central1.run.app)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+  [![Vanilla JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 </div>
+
+---
+
+## 🚀 Live Demo
+
+**Experience the platform live on Google Cloud Run:**
+👉 **[SmartCrowd AI - Attendee & Admin Dashboards](https://smartcrowd-app-500190929866.us-central1.run.app)**
 
 ---
 
@@ -53,14 +66,18 @@ This project was intentionally designed to run blisteringly fast without relying
 *   **Markup / Style:** HTML5, CSS3, and Tailwind CSS (via CDN configuration) to allow rapid utility-first UI building.
 *   **Data Visualization:** HTML5 `<canvas>`, built entirely from scratch with raw `ctx` drawing commands handling bezier curves, rounded borders, gradient scaling, and grid mapping.
 *   **Aesthetic Principle:** Heavy usage of **Glassmorphism** — translucent panels, heavy background blur layers (`backdrop-blur-md`), deep dark-mode backgrounds, and vibrant neon accents mimicking a futuristic cyberpunk HUD.
+*   **Hosting & Deployment:** Containerized with Docker and hosted serverless on Google Cloud Run.
 
 ---
 
-## 🎯 Getting Started
+## 🎯 Local Development (Getting Started)
 
 No `npm install` or complex database setup is required. The entire application runs directly on the local browser environment.
 
-1. **Clone or Download** this directory to your machine.
+1. **Clone or Download** this directory to your machine:
+   ```bash
+   git clone https://github.com/Yogesh4918/SmartCrowd-AI-Olympic.git
+   ```
 2. Ensure you have a standard local development server to avoid CORS issues with certain script references. If you have VS Code, simply right click `index.html` and use **Live Server**.
    *Alternatively, via terminal:*
    ```bash
@@ -77,9 +94,11 @@ No `npm install` or complex database setup is required. The entire application r
 
 ## 🎨 Design Previews
 
-*(You can add localized screenshots of the project here by creating an `/assets/` folder and linking images like `![Dashboard View](assets/dash.png)` later).*
+The application uses an immersive dark-theme interface with neon accenting and responsive layouts optimized for Mobile, Tablet, and Desktop displays.
 
 ---
 
-### Developed for 
-**The Olympic Smart City & Crowd Intelligence Initiative**
+<div align="center">
+  <h3>Made with ❤️ by Yogesh Patel</h3>
+  <p><b>Developed for The Olympic Smart City & Crowd Intelligence Initiative</b></p>
+</div>
