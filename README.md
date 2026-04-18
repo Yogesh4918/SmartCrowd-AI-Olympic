@@ -75,11 +75,5 @@ No `npm install` or complex database setup is required. The entire application r
 
 ---
 
-## 🎨 Design Previews
-
-*(You can add localized screenshots of the project here by creating an `/assets/` folder and linking images like `![Dashboard View](assets/dash.png)` later).*
-
----
-
 ### Developed for 
 **The Olympic Smart City & Crowd Intelligence Initiative**
