@@ -4,7 +4,7 @@
   <h3>Next-generation AI-powered queue optimization, incident prediction, and crowd density management designed for Olympic-scale events.</h3>
   <br />
   
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-00D4FF?style=for-the-badge&logo=google-cloud&logoColor=white)](https://smartcrowd-app-500190929866.us-central1.run.app)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-00D4FF?style=for-the-badge&logo=google-cloud&logoColor=white)](https://smartcrowd-app-xtkvfaszfa-uc.a.run.app)
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
   [![Vanilla JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -15,7 +15,7 @@
 ## 🚀 Live Demo
 
 **Experience the platform live on Google Cloud Run:**
-👉 **[SmartCrowd AI - Attendee & Admin Dashboards](https://smartcrowd-app-500190929866.us-central1.run.app)**
+👉 **[SmartCrowd AI - Attendee & Admin Dashboards](https://smartcrowd-app-xtkvfaszfa-uc.a.run.app)**
 
 ---
 
