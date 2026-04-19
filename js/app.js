@@ -1,4 +1,5 @@
 /* ===== SmartCrowd AI – Main Application Controller ===== */
+'use strict';
 
 // --------- Loading Screen ---------
 window.addEventListener('load', () => {
@@ -16,6 +17,10 @@ window.addEventListener('load', () => {
 });
 
 // --------- App Init ---------
+/**
+ * Initializes all core application components
+ * including i18n, navigation, heatmap, and queues.
+ */
 function initApp() {
     initI18n();
     initHeatmap();
@@ -64,6 +69,10 @@ function initScrollEffects() {
 }
 
 // --------- Section Scroll ---------
+/**
+ * Smooth scrolls to a target section by ID, adjusting for navigation bar height.
+ * @param {string} id - The ID of the section to scroll to.
+ */
 function scrollToSection(id) {
     const el = document.getElementById(id);
     if (el) {
@@ -82,6 +91,9 @@ function toggleMobileMenu() {
 // --------- Notification Panel ---------
 let notifications = [];
 
+/**
+ * Toggles the visibility of the notification panel.
+ */
 function toggleNotifPanel() {
     const panel = document.getElementById('notif-panel');
     if (panel) {

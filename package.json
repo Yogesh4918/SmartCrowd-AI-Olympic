@@ -1,0 +1,25 @@
+{
+  "name": "olympic",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <h3>Next-generation AI-powered queue optimization, incident prediction, and crowd density management designed for Olympic-scale events.</h3>   <br />",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogesh4918/SmartCrowd-AI-Olympic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yogesh4918/SmartCrowd-AI-Olympic/issues"
+  },
+  "homepage": "https://github.com/Yogesh4918/SmartCrowd-AI-Olympic#readme",
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "jest-environment-jsdom": "^30.3.0"
+  }
+}
